@@ -1,0 +1,44 @@
+body{
+	margin: 10% 10%;
+	background: #00C08F;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.app{
+	border-top-right-radius:10px;
+	border-top-left-radius:10px;
+	border-top:1px solid #ccc;
+	text-align: center;
+	background: #E0E0E0;
+	padding: 15px;
+	font-weight: bold; 
+	margin-bottom: 5px;
+	width: 275px;
+}
+#inputBox {
+	width: 275px;
+	height: 100px;
+}
+
+#tweets {
+	margin-top: 40px;
+}
+#icon {
+	float: right;
+}
+.tweet {
+	box-sizing: border-box;
+	padding: 10px;
+	width: 300px;
+	border: 1px solid #00BC8A;
+	margin-bottom: 10px;
+	background: #6DBB79;
+}
+#tweetButton{
+	background:#337AB7;
+	padding: 10px;
+	border:none;
+	margin: 5px 0;
+	color:white;
+	font-weight: bold;
+}
